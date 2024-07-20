@@ -1,4 +1,4 @@
-# django_blog_application
+# Django Blog Application
 A simple blog application using Django and Django REST Framework, integrating basic CRUD (Create, Read, Update, Delete) functionalities.
 
 # Steps to setup and start project
